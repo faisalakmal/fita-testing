@@ -35,3 +35,5 @@ Step 7 : Install RIDE
 Step 8 : On cmd goto folder where ride.py is (C:\Python27\Scripts)
             run on cmd : ride.py
             This should open RIDE
+			
+For APK can download here: https://github.com/flutter/gallery
